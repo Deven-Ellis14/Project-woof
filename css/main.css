@@ -1,1 +1,66 @@
-here
+/*
+dk green: #055417;
+green: #28af36;
+lt green: 69f469; 
+*/
+
+body {
+    background-color: #055417;
+}
+
+.clear {
+	clear: both;
+}
+
+.container {
+	width: 80%;
+	margin: 0 10%;
+}
+
+header {
+	background-color: #69f469;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+    color: #055417;
+    
+}
+
+#first-section {
+   background-color:#28af36;
+   padding: 25px;
+}
+
+#first-section img {
+	float: left;
+	width: 50%;
+}
+
+#first-section .text-wrap {
+	float: left;
+	width: 40%;
+	margin-left: 10%;
+}
+
+#second-section {
+	background-color:#28af36;
+ 	padding: 25px;
+}
+
+#second-section img {
+	float: left;
+	width: 50%;
+}
+
+#second-section .text-wrap {
+	float: left;
+	width: 40%;
+	margin-right: 10%;
+}
+
+#third-section {
+	background-color:#28af36;
+	padding: 25px;
+}
